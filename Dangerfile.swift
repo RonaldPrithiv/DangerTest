@@ -2,7 +2,7 @@ import Danger
 let danger = Danger()
 
 fail("Highlight something in the table")
-message(git.deleted_files)
-message(git.modified_files)
-message(git.added_files)
+message(danger.git.deleted_files)
+message(danger.git.modified_files)
+message(danger.git.added_files)
 
