@@ -1,5 +1,5 @@
 import Danger 
 let danger = Danger()
 
-message("Highlight something in the table")
-warn("Something pretty bad, but not important enough to fail the build")
+fail("Highlight something in the table")
+message("Something pretty bad, but not important enough to fail the build")
