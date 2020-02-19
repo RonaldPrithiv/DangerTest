@@ -1,1 +1,2 @@
 [![codecov](https://coverage.dubizzlecloud.com/gle/olx:dubizzle:developers:mobile:android/android-dubizzle-property/branch/develop/graph/badge.svg?token=oDwaw8HBZ7)](https://coverage.dubizzlecloud.com/gle/olx:dubizzle:developers:mobile:android/android-dubizzle-property)
+[![codecov](https://coverage.dubizzlecloud.com/gle/olx:dubizzle:developers:mobile:android/android-dubizzle-property/branch/develop/graphs/commits.svg?token=oDwaw8HBZ7)](https://coverage.dubizzlecloud.com/gle/olx:dubizzle:developers:mobile:android/android-dubizzle-property)
